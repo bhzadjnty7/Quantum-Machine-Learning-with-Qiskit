@@ -258,4 +258,5 @@ This project is intended for educational and research purposes.
 <p align="center">
   <i>Exploring the intersection of Quantum Computing and Machine Learning ⚛️</i>
 </p>
-```
+
+<div align="center"> <sub>Built with ❤️ using Qiskit and Jupyter Notebooks</sub> </div> 
